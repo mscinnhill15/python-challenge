@@ -1,1 +1,2 @@
 # python-challenge
+I completed the PyBank section with the assistance of Tutor David P and the codes from previous practice examples. I got assistance from the TAs on parts of the codes and I attended office hours to learn how to properly push, add, commit my files. The codes are located in both PyBank and PyPoll folders under main.py. The CSV's are located in the Resources folders. The analysis folder contains the txt outputs for the codes.  
